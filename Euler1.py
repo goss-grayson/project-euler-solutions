@@ -10,6 +10,6 @@ for i in range(3, 1001):
     elif ( ( ( i % 5 ) == 0 ) and ( ( i % 15 ) != 0 ) ):
         s += i;
     
-print(summation);
+print(s);
 
 
